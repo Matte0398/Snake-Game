@@ -1,6 +1,8 @@
 # SnakeGame
-A simple snake game developed primarily to study the functionality of Python's Pygame library
-<hr>
 
-### USAGE
-&nbsp;&nbsp; ``` python SnakeGame.py ```
+A simple Snake game developed in Python to practice and explore the Pygame library.
+
+## Usage
+
+```bash
+python SnakeGame.py
